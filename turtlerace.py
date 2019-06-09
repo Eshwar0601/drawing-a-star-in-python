@@ -1,7 +1,5 @@
 import turtle
-import time
 
-import turtle  
   
 star = turtle.Turtle() 
   
